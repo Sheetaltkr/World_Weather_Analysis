@@ -36,7 +36,7 @@ The **`Vacation_Search.ipynb`** program uses the city weather data from **`Weath
 
 ### Visualize Travel Data: Vacation Itinerary
 
-This **`Vacation_Itinerary.ipynb`** program uses the subset data from **`WeatherPy_vacation.csv`**, and **Google Maps directions API** to create a vacation itinerary. The **WeatherPy_travel_map** below shows a 4 stop itinerary in USA  that features **Buckeye, San Patricio, Spring Hill and Elizabeth city** with Buckeye as  as the start and end point of the travel itinerary.
+This **`Vacation_Itinerary.ipynb`** program uses the subset data from **`WeatherPy_vacation.csv`**, and **Google Maps directions API** to create a vacation itinerary. The **WeatherPy_travel_map** below shows a 4 stop itinerary travel route in USA for **DRIVING** mode  that features **Buckeye, San Patricio, Spring Hill and Elizabeth city** with Buckeye as  as the start and end point of the travel itinerary.
 
 ![vacation_itinerary_map](https://github.com/Sheetaltkr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
